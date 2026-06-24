@@ -1,0 +1,9 @@
+risk,category,probability,impact,mitigation_effectiveness,mitigation,owner
+Enterprise renewal concentration,Revenue,4,5,0.35,Executive sponsor plans for top 25 accounts,CRO
+AI feature commoditization,Strategy,3,5,0.25,Accelerate proprietary workflow automation roadmap,CPO
+Cloud cost inflation,Financial,4,4,0.45,Commit usage discounts and optimize model inference,CTO
+Security compliance delay,Operational,2,5,0.30,Add external SOC2 readiness partner,COO
+Pipeline quality deterioration,Go-to-market,3,4,0.40,Shift spend from MQL volume to account intent,CRO
+Hiring bottleneck in data science,Talent,3,3,0.30,Build university sourcing and contractor bench,CHRO
+New privacy regulation,Regulatory,2,4,0.25,Create privacy impact review for new features,General Counsel
+
